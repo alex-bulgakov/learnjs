@@ -1,4 +1,5 @@
-function calculate() {
+// 1.1 example
+/* function calculate() {
 	"use strict";
 
 	var amount 				= document.getElementById("amount");
@@ -156,4 +157,4 @@ function chart(principal, interest, monthly, payments) {
 		g.fillText(String(ticks[i].toFixed(0)),
 							rightEdge-5, y);
 	}
-}
+}*/
